@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\contagemregressiva\obj\Debug\netcoreapp3.1\contagemregressiva.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\contagemregressiva\obj\Debug\netcoreapp3.1\contagemregressiva.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\contagemregressiva\obj\Debug\netcoreapp3.1\contagemregressiva.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\contagemregressiva\obj\Debug\netcoreapp3.1\contagemregressiva.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\contagemregressiva\bin\Debug\netcoreapp3.1\contagemregressiva.exe
+C:\Users\kelly\Documents\atividadespc1\contagemregressiva\bin\Debug\netcoreapp3.1\contagemregressiva.deps.json
+C:\Users\kelly\Documents\atividadespc1\contagemregressiva\bin\Debug\netcoreapp3.1\contagemregressiva.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\contagemregressiva\bin\Debug\netcoreapp3.1\contagemregressiva.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\contagemregressiva\bin\Debug\netcoreapp3.1\contagemregressiva.dll
+C:\Users\kelly\Documents\atividadespc1\contagemregressiva\bin\Debug\netcoreapp3.1\contagemregressiva.pdb
+C:\Users\kelly\Documents\atividadespc1\contagemregressiva\obj\Debug\netcoreapp3.1\contagemregressiva.dll
+C:\Users\kelly\Documents\atividadespc1\contagemregressiva\obj\Debug\netcoreapp3.1\contagemregressiva.pdb
+C:\Users\kelly\Documents\atividadespc1\contagemregressiva\obj\Debug\netcoreapp3.1\contagemregressiva.genruntimeconfig.cache
